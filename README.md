@@ -2,147 +2,146 @@
 
 ### AI & Data Science Student | Aspiring Data Scientist
 
-**B.Tech AI & Data Science** · **VIPS-TC** · **2024–2028**
-
----
+**B.Tech AI & Data Science** &nbsp; | &nbsp; **VIPS-TC** &nbsp; | &nbsp; **2024–2028**
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="54%" valign="middle">
 
-### 🎓 About Me
+I'm a third-year B.Tech student passionate about **Data Science, Machine Learning, and building practical applications.**
 
-- 🎯 Third-year B.Tech AI & DS student
-- 📊 Interested in Data Science and Machine Learning
-- 🧠 Learning ML through hands-on projects
-- 🛠️ Building practical, real-world solutions
-- 🌱 Exploring open source and improving my coding skills
+I enjoy learning through hands-on projects and turning concepts into real-world solutions.
 
 </td>
-<td width="50%" valign="top">
+<td width="46%" valign="middle">
 
-### ✨ Currently Focused On
+📊 &nbsp; Exploring data analysis and predictive modelling
 
-- Python and Data Analysis
-- Machine Learning fundamentals
-- NumPy, Pandas and Scikit-learn
-- DSA and problem-solving
-- Data Science projects and internships
+🧠 &nbsp; Learning Machine Learning through projects
+
+🏆 &nbsp; Hackathon runner-up
+
+💻 &nbsp; Improving Python, DSA and problem-solving
+
+🌱 &nbsp; Exploring open source and internships
 
 </td>
 </tr>
 </table>
+
+---
+
+## 👩🏻‍💻 About Me
+
+- 🎓 B.Tech student in Artificial Intelligence & Data Science
+- 📊 Interested in Data Science and Machine Learning
+- 🛠️ Focused on building practical, real-world solutions
+- 📚 Learning continuously through projects and coding practice
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-### 💻 Programming Languages
+<table>
+<tr>
+<td colspan="6" align="left">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" alt="Python, C++, C, JavaScript, HTML and CSS"/>
-</p>
+**💻 Programming Languages**
 
-| Python | C++ | C | JavaScript | HTML | CSS |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 🐍 | ⚙️ | 💻 | 🟨 | 🌐 | 🎨 |
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="42" alt="C++"/><br/>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c" width="42" alt="C"/><br/>C</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript"/><br/>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML"/><br/>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS"/><br/>CSS</td>
+</tr>
+<tr>
+<td colspan="6" align="left">
 
-### 📊 Data Science & Machine Learning
+**📊 Data Science & Machine Learning**
 
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib" alt="Data Science tools"/>
-</p>
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="42" alt="NumPy"/><br/>NumPy</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="42" alt="Pandas"/><br/>Pandas</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="42" alt="Scikit-learn"/><br/>Scikit-learn</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" width="42" alt="Matplotlib"/><br/>Matplotlib</td>
+<td align="center"><img src="https://img.shields.io/badge/XGBoost-orange?style=flat-square" height="24" alt="XGBoost"/><br/>XGBoost</td>
+<td align="center">🤖<br/>Machine Learning</td>
+</tr>
+<tr>
+<td colspan="6" align="left">
 
-| NumPy | Pandas | Scikit-learn | Matplotlib | XGBoost |
-|:---:|:---:|:---:|:---:|:---:|
-| 🔢 | 🐼 | 🤖 | 📈 | 🌳 |
+**⚡ Frameworks & Database**
 
-### ⚡ Frameworks & Database
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="42" alt="FastAPI"/><br/>FastAPI</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="42" alt="Supabase"/><br/>Supabase</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/><br/>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="42" alt="TypeScript"/><br/>TypeScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="42" alt="Vite"/><br/>Vite</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL"/><br/>PostgreSQL</td>
+</tr>
+<tr>
+<td colspan="6" align="left">
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,supabase,react,ts,vite,postgres" alt="Frameworks and database"/>
-</p>
+**🔧 Tools & Platforms**
 
-| FastAPI | Supabase | React | TypeScript | Vite | PostgreSQL |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 🚀 | ⚡ | ⚛️ | 🔷 | ⚡ | 🐘 |
-
-### 🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,kaggle" alt="Tools and platforms"/>
-</p>
-
-| Git | GitHub | VS Code | Jupyter | Kaggle |
-|:---:|:---:|:---:|:---:|:---:|
-| 🔀 | 🐙 | 💙 | 📓 | 📊 |
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/><br/>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/><br/>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="42" alt="VS Code"/><br/>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="42" alt="Jupyter"/><br/>Jupyter</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kaggle" width="42" alt="Kaggle"/><br/>Kaggle</td>
+<td align="center">🐍<br/>Python IDEs</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<th>Project</th>
-<th>What it does</th>
-<th>Tech Stack</th>
-</tr>
-<tr>
-<td><b>🌾 Crop Prediction</b></td>
-<td>Agricultural prediction using machine learning</td>
-<td>Python, XGBoost, Random Forest</td>
-</tr>
-<tr>
-<td><a href="https://github.com/Anshika21-cyber/Sentinel-AI-SaaS"><b>🛡️ Sentinel AI</b></a></td>
-<td>Risk analysis with explainable insights</td>
-<td>React, TypeScript, Supabase</td>
-</tr>
-<tr>
-<td><a href="https://github.com/Anshika21-cyber"><b>🧵 Craft2Market</b></a></td>
-<td>AI marketplace concept for artisans</td>
-<td>React, TypeScript, Supabase</td>
-</tr>
-<tr>
-<td><a href="https://github.com/Anshika21-cyber/HorizonTechX_Basic_Chatbot"><b>🤖 Basic Chatbot</b></a></td>
-<td>A simple Python chatbot</td>
-<td>Python</td>
-</tr>
-<tr>
-<td><a href="https://github.com/Anshika21-cyber/HorizonTechX_Hangman_Game"><b>🎮 Hangman Game</b></a></td>
-<td>Word-guessing game</td>
-<td>Python</td>
-</tr>
-<tr>
-<td><a href="https://github.com/Anshika21-cyber/Leetcode-Solutions"><b>💻 LeetCode Solutions</b></a></td>
-<td>Coding practice and algorithms</td>
-<td>DSA</td>
-</tr>
-</table>
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🌾 **Crop Prediction** | Predictive modelling with agricultural data | Python, XGBoost, Random Forest |
+| 🛡️ [**Sentinel AI**](https://github.com/Anshika21-cyber/Sentinel-AI-SaaS) | Risk analysis with explainable insights | React, TypeScript, Supabase |
+| 🧵 **Craft2Market** | AI marketplace concept for artisans | React, TypeScript, Supabase |
+| 🤖 [**Basic Chatbot**](https://github.com/Anshika21-cyber/HorizonTechX_Basic_Chatbot) | Python chatbot project | Python |
+| 🎮 [**Hangman Game**](https://github.com/Anshika21-cyber/HorizonTechX_Hangman_Game) | Word-guessing game | Python |
+| 💻 [**LeetCode Solutions**](https://github.com/Anshika21-cyber/Leetcode-Solutions) | Coding practice and algorithms | DSA |
 
 <p align="center">
 <a href="https://github.com/Anshika21-cyber?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
+<img src="https://img.shields.io/badge/Explore_My_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
 </a>
 </p>
 
 ---
 
-## 🏆 Achievements & Open Source
+## 🏆 Achievements
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="middle">
 
 ### 🏆 Hackathon Runner-up
 
 Secured **2nd place** in a hackathon.
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="middle">
 
 ### 🌱 Open Source
 
-Selected for **GSSoC'26** and **SSOC**; exploring open-source contributions.
+Selected for **GSSoC'26** and **SSOC**, exploring open-source development and collaboration.
 
 </td>
 </tr>
@@ -161,5 +160,7 @@ Selected for **GSSoC'26** and **SSOC**; exploring open-source contributions.
 </p>
 
 <p align="center">
-<i>✨ Keep learning. Keep building. Keep growing. 💜</i>
+
+**✨ Keep learning. Keep building. Keep growing. 💜**
+
 </p>
